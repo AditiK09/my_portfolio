@@ -115,6 +115,12 @@ span{
    margin-left: 40px;
    
 }
+ul{
+    margin-bottom: 15px;
+}
+.dots{
+    list-style-type: none;
+}
 .ab-img{
     flex-basis: 35%;
     border-radius: 30%;
